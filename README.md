@@ -1,2 +1,2 @@
 # FirstProject
-Initial Python poject
+Initial Python Project
